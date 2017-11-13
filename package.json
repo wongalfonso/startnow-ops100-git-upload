@@ -1,0 +1,23 @@
+{
+  "name": "startnow-ops100-git-upload",
+  "version": "1.0.0",
+  "description": "git upload",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OriginCodeAcademy/startnow-ops100-git-upload.git"
+  },
+  "author": "Gus Suarez <gus@origincodeacademy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OriginCodeAcademy/startnow-ops100-git-upload/issues"
+  },
+  "homepage": "https://github.com/OriginCodeAcademy/startnow-ops100-git-upload#readme",
+  "devDependencies": {
+    "axios": "^0.16.2",
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
